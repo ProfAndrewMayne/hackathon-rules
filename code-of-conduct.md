@@ -1,6 +1,8 @@
 **TL;DR. Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at an event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.**
 
-The SEIT Hackathon stands for inclusivity. We believe that every single person has the right to hack in a safe and welcoming environment.
+At all times participants will adhere to the [Durham College student code of conduct](https://durhamcollege.ca/wp-content/uploads/student-conduct-policy.pdf).
+
+The SEIT Hackathon stands for inclusivity. We believe that every single person has the right to hack in a safe and welcoming environment. 
 
 Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, social class, economic status, veteran status. Additional cases of harassment include but not limited to sharing sexual images, deliberate intimidation, stalking, following, brigading, doxxing, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it.
 
@@ -20,4 +22,5 @@ We expect participants to follow these rules at all hackathon venues, online int
 
 If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
 
-**INSERT CONTACT INFO HERE
+General Email: SEITHackathon@durhamcollege.ca
+Organizer Email: andrew.mayne@durhamcollege.ca
