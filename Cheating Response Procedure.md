@@ -1,6 +1,7 @@
 # Cheating Response Procedure
 
-The following is a guide of actions to be taken in the case of an accusation that a team cheated or otherwise violated the rules of competition. Violations of the Code of Conduct is handled under the [Incident Response Procedure](https://github.com/MLH/policies/blob/master/incident-response.md).
+The following is a guide of actions to be taken in the case of an accusation that a team cheated or otherwise violated the rules of competition. 
+
 Accusations of cheating may include but are not limited to:
 
 - A team using somebody else’s code
@@ -8,7 +9,7 @@ Accusations of cheating may include but are not limited to:
 - A team having too many team members
 - A team using code that was written outside the event
 
-To determine the validity of cheating instances Major League Hacking defers to the rules adopted by the individual event. If the event did not adopt a unique set of rules, the default [Hackathon Rules](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Rules.md) will be used.
+To determine the validity of cheating instances [Hackathon Rules](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Rules.md) will be used.
 
 ## Accusation
 
@@ -54,7 +55,3 @@ Some actions for the staff to consider when dealing with alleged cheating offend
 - Revocation of prizes & recognitions
 - Banning the participants from future events (either indefinitely or for a certain time period)
 - Publishing an account of the cheating
-
-
-
-If some attendees were angered by the cheating, it is best to apologize to them that the cheating occurred to begin with. If there are residual hard feelings, suggest to them to write an email to MLH. It will be dealt with accordingly.
