@@ -23,4 +23,5 @@ We expect participants to follow these rules at all hackathon venues, online int
 If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
 
 General Email: SEITHackathon@durhamcollege.ca
+
 Organizer Email: andrew.mayne@durhamcollege.ca
