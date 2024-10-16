@@ -18,6 +18,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 11. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
 12. Projects that violate the [Code of Conduct](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/code-of-conduct.md) are not allowed. 
 13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/code-of-conduct.md), or other unsporting behaviour.
+14. Any breach these rules will be dealt with accoring to the (Cheating Response Procedurte)[https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Cheating%20Response%20Procedure.md]
 
 
 ## Demos
