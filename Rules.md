@@ -16,8 +16,8 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 10. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
 11. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
-12. Projects that violate the [Code of Conduct](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/code-of-conduct.md) are not allowed. 
-13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/code-of-conduct.md), or other unsporting behaviour.
+12. Projects that violate the [Code of Conduct](Code%20of%20Conduct.md) are not allowed. 
+13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](Code%20of%20Conduct.md), or other unsporting behaviour.
 14. Any breach these rules will be dealt with accoring to the [Cheating Response Procedurte](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Cheating%20Response%20Procedure.md).
 
 
