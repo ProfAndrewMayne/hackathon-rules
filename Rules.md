@@ -3,18 +3,18 @@
 Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8) by collaborating with other teams, helping beginners, and having fun.
 
 
-##Eligibility
+## Eligibility
 
 Elidgibility is restricted to currently enrolled Durham College student in the second or graduating year of their program of study. Students must be enrolled in one of the following programs:  Computer Programming (Analysis), Artificial Intelligence – Honours Bachelor, Artificial Intelligence Analysis, Design and Implementation and Data Analytics for Business Decision Making and Cybersecurity
 
 
-##Team Requirements
+## Team Requirements
 
 1. Teams must cosist of two to four students. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
 2. Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event.
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 
-##Project and Submission Requirements
+## Project and Submission Requirements
 
 1. All work on projects must be done between 11am March 22nd and 11am March 23rd. Submissions must be made by 11am March 23rd to be elidgable for judging and prizes.
 2. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
