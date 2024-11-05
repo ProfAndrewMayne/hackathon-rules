@@ -47,8 +47,6 @@ Teams will be judged on these four criteria. Judges will weigh the criteria equa
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
 - __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
 
-These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
-
 It's important to note that these judging criteria do not include:
 
 - How good your code is. It doesn't matter if your code is messy, or not well commented, or uses inefficient algorithms. Hacking is about playing around, making mistakes, and learning new things. If your code isn't production ready, we're not going to mark you down.
