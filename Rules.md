@@ -3,27 +3,35 @@
 Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8) by collaborating with other teams, helping beginners, and having fun.
 
 
-## The rules of the competition
+##Eligibility
 
-1. There is a maximum team size of four(4) people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
-2. Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
-3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
-4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
-5. All work on a project should be done at the hackathon. Projects which are started before the hackathon period will be disqualified.
-6. Teams can use an idea they had before the event.
-7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
-8. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
-9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
-10. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
-11. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
-12. Projects that violate the [Code of Conduct](Code%20of%20Conduct.md) are not allowed. 
-13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](Code%20of%20Conduct.md), or other unsporting behaviour.
-14. Any breach these rules will be dealt with accoring to the [Cheating Response Procedurte](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Cheating%20Response%20Procedure.md).
+Elidgibility is restricted to currently enrolled Durham College student in the second or graduating year of their program of study. Students must be enrolled in one of the following programs:  Computer Programming (Analysis), Artificial Intelligence – Honours Bachelor, Artificial Intelligence Analysis, Design and Implementation and Data Analytics for Business Decision Making and Cybersecurity
 
+
+##Team Requirements
+
+    1. Teams must cosist of two to four students. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
+    2. Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event.
+    3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
+
+##Project and Submission Requirements
+
+    1. All work on projects must be done between 11am March 22nd and 11am March 23rd. Submissions must be made by 11am March 23rd to be elidgable for judging and prizes.
+    2. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
+    All work on a project should be done at the hackathon. Projects which are started before the hackathon period will be disqualified.
+    3. Teams can use an idea they had before the event.
+    Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
+    4. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
+    5. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
+    6. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
+    7. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
+    8. Projects that violate the [Code of Conduct](Code%20of%20Conduct.md) are not allowed. 
+    9. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](Code%20of%20Conduct.md), or other unsporting behaviour.
+    10. Any breach these rules will be dealt with accoring to the [Cheating Response Procedurte](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Cheating%20Response%20Procedure.md).
 
 ## Demos
 
-After hacking finishes, teams will show their projects each other and to the judges.
+After hacking finishes, teams are required show their projects each other and to the judges. Failing to do so will disqualify your submission for final judging.
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
