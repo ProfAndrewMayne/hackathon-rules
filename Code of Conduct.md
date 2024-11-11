@@ -8,7 +8,7 @@ Harassment includes but is not limited to offensive verbal or written comments r
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Sponsors, judges, mentors, volunteers, organizers, staff, and anyone else participating in the event are also subject to the anti-harassment policy. In particular, attendees should not use sexualised images, activities, or other material both in their hacks and during the event. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
+Sponsors, judges, mentors, volunteers, organizers, staff, and anyone else participating in the event are also subject to the anti-harassment policy. In particular, attendees should not use sexualized images, activities, or other material both in their hacks and during the event. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 If a participant engages in harassing behavior, we may take any action it deems appropriate, including warning the offender or expulsion from the event with no eligibility for reimbursement or refund of any type.
 
