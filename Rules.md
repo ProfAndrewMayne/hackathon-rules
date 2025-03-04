@@ -28,6 +28,7 @@ Eligibility is restricted to currently enrolled Durham College student in the se
 10. Projects that violate the [Code of Conduct](Code%20of%20Conduct.md) are not allowed. 
 11. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](Code%20of%20Conduct.md), or other unsporting behaviour.
 12. Any breach of these rules will be dealt with accoring to the [Cheating Response Procedure](https://github.com/ProfAndrewMayne/hackathon-rules/blob/master/Cheating%20Response%20Procedure.md).
+13. Participants must be present at the venue for the judging process to be have their submission considered for entry.
 
 ## Demos
 
